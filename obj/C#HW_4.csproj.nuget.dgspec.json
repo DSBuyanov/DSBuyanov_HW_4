@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\C#HW\\C#HW_4\\C#HW_4.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\C#DSBuyanov\\C#HW_4\\C#HW_4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\C#HW\\C#HW_4\\C#HW_4.csproj": {
+    "C:\\Users\\Admin\\Desktop\\C#DSBuyanov\\C#HW_4\\C#HW_4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\C#HW\\C#HW_4\\C#HW_4.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\C#DSBuyanov\\C#HW_4\\C#HW_4.csproj",
         "projectName": "C#HW_4",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\C#HW\\C#HW_4\\C#HW_4.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\C#DSBuyanov\\C#HW_4\\C#HW_4.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\C#HW\\C#HW_4\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\C#DSBuyanov\\C#HW_4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
